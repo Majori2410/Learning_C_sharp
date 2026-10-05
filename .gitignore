@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Thu muc bien dich
+[Bb]in/
+[Oo]bj/
+
+# Cau hinh moi truong
+.env
