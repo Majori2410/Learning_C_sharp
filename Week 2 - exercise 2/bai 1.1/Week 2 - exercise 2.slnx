@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="../bai 1.2/bai 1.2.csproj" Id="7d72c12f-1235-4233-9551-48c83083e60b" />
+  <Project Path="../bai 1.3/bai 1.3.csproj" Id="85052138-1190-4028-94e7-43b717588734" />
+  <Project Path="../bai 2.1/bai 2.1.csproj" Id="d5878bc5-1782-4bfc-976d-5932a1cc4b44" />
+  <Project Path="../bai 2.2/bai 2.2.csproj" Id="39214386-d8b1-402b-a54a-94f97abdc1d5" />
+  <Project Path="../bai 2.3/bai 2.3.csproj" Id="9a475d3d-0132-4cf4-b3e0-c4148de744da" />
+  <Project Path="../bai 2.4/bai 2.4.csproj" Id="ba0d50bb-b61f-4757-8e07-fec437bec69b" />
+  <Project Path="../bai 2.5/bai 2.5.csproj" Id="3ddf9b6f-5d64-4b38-8fc5-112e761ed341" />
+  <Project Path="../bai 3.1/bai 3.1.csproj" Id="c01939a4-6a7b-4cb1-ad9e-5a8b57a81326" />
+  <Project Path="../bai 3.2/bai 3.2.csproj" Id="9f73bc82-22f8-4eef-a7c5-340496e1aa8d" />
+  <Project Path="../bai 3.4/bai 3.4.csproj" Id="f9314b09-8da1-46c3-9b03-90cd00097d75" />
+  <Project Path="../bai 3.5/bai 3.5.csproj" Id="dfe479ec-8c91-48d4-9208-393b3590ae2c" />
+  <Project Path="../bai 3.6/bai 3.6.csproj" Id="c876c46d-c771-4d2f-b630-7750fa204a76" />
+  <Project Path="../bài 3.3/bai 3.3.csproj" Id="34371088-8a60-4424-b0a9-8a5b7760bbb5" />
+  <Project Path="../ConsoleApp1/bai 1.5.csproj" Id="7a74fbcc-202e-4489-af35-c8fd779764cc" />
+  <Project Path="../ConsoleApp2/bai 1.4.csproj" Id="0243f146-db15-440e-8f12-db3ca2816703" />
+  <Project Path="bai 1.1/bai 1.1.csproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../bai 1.2/bai 1.2.csproj" Id="7d72c12f-1235-4233-9551-48c83083e60b" />
+  <Project Path="../bai 1.3/bai 1.3.csproj" Id="85052138-1190-4028-94e7-43b717588734" />
+  <Project Path="../ConsoleApp1/bai 1.5.csproj" Id="7a74fbcc-202e-4489-af35-c8fd779764cc" />
+  <Project Path="../ConsoleApp2/bai 1.4.csproj" Id="0243f146-db15-440e-8f12-db3ca2816703" />
+  <Project Path="bai 1.1/bai 1.1.csproj" />
+</Solution>
