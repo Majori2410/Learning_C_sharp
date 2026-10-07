@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Buoi01Prj/Buoi01Prj.csproj" />
+  <Project Path="Lab01_DoanDuongThuyLinh_3123411175_file2/NNLTCSharpC6.csproj" />
+  <Project Path="MyLib.Tests/MyLib.Tests.csproj" />
+  <Project Path="MyLib/MyLib.csproj" />
+</Solution>
