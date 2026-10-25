@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bai2_QuanLyDiem_06b/Bai2_QuanLyDiem_06b.csproj" />
+  <Project Path="BaiNC1_DanhSachLop_06b/BaiNC1_DanhSachLop_06b.csproj" Id="7639a7ab-be97-4132-8732-b8b746d21aef" />
+  <Project Path="BaiNC2_DanhSachDiem_06b/BaiNC2_DanhSachDiem_06b.csproj" Id="8f955874-3e77-4b53-8916-c4c1df23fc6f" />
+  <Project Path="BaiVN1_QuanLyCuaHang_06b/BaiVN1_QuanLyCuaHang_06b.csproj" Id="35b7ff20-0667-4dcd-87e8-9752f21dcb24" />
+  <Project Path="TH06b_TuongTacCSDL/Bai1_QuanLySinhVien_06b.csproj" />
+</Solution>
